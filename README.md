@@ -1,4 +1,4 @@
-# IEEE754FloatingPointAddition
+# IEEE 754 Floating Point Addition
 
 Features:
 1. Shows the IEEE 754 Representation of floating point numbers to be added
